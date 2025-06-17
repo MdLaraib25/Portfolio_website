@@ -1,1 +1,1 @@
-Code for JS
+Code for JS for portfolio website
